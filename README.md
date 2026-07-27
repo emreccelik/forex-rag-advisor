@@ -37,4 +37,3 @@ python ingest.py
 
 streamlit run app.py
 
-proje anlatimi: https://youtu.be/6CX9qzxNkTc
