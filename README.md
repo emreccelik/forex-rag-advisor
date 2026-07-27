@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 foundry service start
 
-FOUNDRY_ENDPOINT degerini `foundry service status` cikintisiyla guncelle.
+FOUNDRY_ENDPOINT degerini `foundry service status` cikintisiyla guncelleyebilirsin.
 
 python ingest.py
 
